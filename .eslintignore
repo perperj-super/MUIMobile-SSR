@@ -1,2 +1,4 @@
+.github
+.yarn/*
 dist/*.js
-index.d.ts
+node_modules
